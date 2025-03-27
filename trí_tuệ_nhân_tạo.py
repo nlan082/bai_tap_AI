@@ -343,4 +343,7 @@ print("Đánh giá:", fuzzy_system.output['rating'])
 estimated_delivery_time.view(sim=fuzzy_system)
 incentive_bonus.view(sim=fuzzy_system)
 driver_performance_rating.view(sim=fuzzy_system)
-
+Kết quả:
+Thời gian dự kiến: 13.948717948717944
+Thưởng: 15.000000000000004
+Đánh giá: 3.7738098747236544
